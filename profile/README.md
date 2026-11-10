@@ -22,7 +22,6 @@ AHDCO delivers technology services to organizations across Iraq and the Kurdista
 | **Network Infrastructure** | Enterprise network design and deployment |
 | **Data Centers** | Data center design and solutions |
 | **Cloud & Virtualization** | Cloud services and virtualized environments |
-| **Cybersecurity** | Security systems and protection for business networks |
 | **Surveillance & CCTV** | Camera and monitoring systems |
 | **Drone Applications** | DJI-based mapping, surveying, and infrastructure inspection |
 
